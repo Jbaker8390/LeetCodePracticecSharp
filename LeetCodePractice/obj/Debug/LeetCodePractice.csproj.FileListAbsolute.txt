@@ -1,0 +1,6 @@
+C:\Users\jonat\Documents\repos\leetcode\LeetCodePractice\LeetCodePractice\obj\Debug\LeetCodePractice.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\repos\leetcode\LeetCodePractice\LeetCodePractice\bin\Debug\LeetCodePractice.exe.config
+C:\Users\jonat\Documents\repos\leetcode\LeetCodePractice\LeetCodePractice\bin\Debug\LeetCodePractice.exe
+C:\Users\jonat\Documents\repos\leetcode\LeetCodePractice\LeetCodePractice\bin\Debug\LeetCodePractice.pdb
+C:\Users\jonat\Documents\repos\leetcode\LeetCodePractice\LeetCodePractice\obj\Debug\LeetCodePractice.exe
+C:\Users\jonat\Documents\repos\leetcode\LeetCodePractice\LeetCodePractice\obj\Debug\LeetCodePractice.pdb
